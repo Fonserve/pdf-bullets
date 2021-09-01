@@ -1,4 +1,4 @@
-# pdf-bullets
+# pdf-bullets w/ OpenAI API
 pdf analysis of air force forms
 
 One of the most pointless and time-consuming things that Air Force officer and enlisted personnel do every year is bullet-writing. 
