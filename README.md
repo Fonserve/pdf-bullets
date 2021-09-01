@@ -35,4 +35,7 @@ Will cause "United States Air Force Academy" to be abbreviated as "USAF Academy"
 Reversing the order:   
 United States Air Force Academy: USAFA  
 United States Air Force: USAF  
-Corrects this issue.  
+Corrects this issue.
+
+#TODO
+Implement OpenAI API to allow for AI assisted writing and input.
